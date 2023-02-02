@@ -31,7 +31,7 @@ public class OperatorDemo {
 		System.out.println(res2);
 		
 		//BITWISE
-		 a = 12 & 5;s
+		 a = 12 & 5;
 		 b = 12 | 5;
 		 c = 12 ^ 5;
 		 System.out.println(a);
