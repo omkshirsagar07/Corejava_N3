@@ -6,6 +6,7 @@ public class DataTypeDemo {
 		
 		byte a = 127;
 		int b = 127;
+		@SuppressWarnings("unused")
 		long b1 = 2444464;
 		float c = 64;
 		double d = 545.6;
@@ -15,6 +16,7 @@ public class DataTypeDemo {
 		System.out.println(" Value of  is c" +c );
 		System.out.println(" Value of  is d" + d );
 		
+		@SuppressWarnings("unused") // to make warning disapper
 		int x = 'c';
 		
 		String Name = " Om";
