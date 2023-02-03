@@ -41,10 +41,12 @@ public class OperatorDemo {
 		 //TERNARY OPERATOR
 		 String res = (12%2==0)?"True":"False";
 		 
+		 //INCREMENT AND DECREMENT
 		 int i = 1;
 		 System.out.println(1 + ++i);
 		 System.out.println(1 + i++);
 		 System.out.println(i+i);
+		 sc.close();
 
 	}
 
