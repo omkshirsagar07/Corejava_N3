@@ -32,6 +32,8 @@ public class SwitchDemo {
 		default:
 			System.out.println("HaHaHa 😁😁😁");
 		}
+		sc.close();
+		
 		}
 	
 
