@@ -1,0 +1,12 @@
+# we cannopt create obj for abstarct class
+#abstract class is used to clearte abstact methjod or class
+#abstract method contain only method signature and not the method body
+#abstract method ---> abstact method_name();
+#abstracty metod is not declared in the same class it is declared in the child class
+
+#we cannot creat object of abstract class
+#if a class contains any bsingle abstrct method then we have to declare that class as abstrct class
+#if a chid class is inherited from a abstrct cls then all the abstract method must be provide with body 
+in the inherited child class .
+
+# any abstract class can't be a final class
